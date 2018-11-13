@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#40e0d0"
+    tools:context=".MainActivity">
+
+
+    <ImageButton
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginLeft="75dp"
+        android:layout_marginTop="55dp"
+        android:layout_marginRight="75dp"
+        android:background="@drawable/bruno"
+        />
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="75dp"
+        android:layout_marginRight="75dp"
+        android:background="#333333"
+        android:text="STEP COUNTER"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <ImageButton
+
+        android:id="@+id/button4"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginLeft="75dp"
+        android:layout_marginTop="75dp"
+        android:layout_marginRight="75dp"
+        android:background="@drawable/bc" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="75dp"
+        android:layout_marginRight="75dp"
+        android:textStyle="bold"
+        android:background="#333333"
+        android:text="BMI"
+        android:textSize="30sp"
+        tools:layout_editor_absoluteX="64dp"
+        tools:layout_editor_absoluteY="279dp" />
+</LinearLayout>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Run2Fit</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hi There!</string>
+    <string name="slide_1_desc">Welcome to StepCounting and Health Management App!</string>
+
+    <string name="slide_2_title">Step Counter</string>
+    <string name="slide_2_desc">Count your Daily Steps Directly from Your Phone!</string>
+
+    <string name="slide_3_title">BMI</string>
+    <string name="slide_3_desc">Get Body Mass Index On Your FingerTips!</string>
+
+    <string name="slide_4_title">Health On Go</string>
+    <string name="slide_4_desc">Take Care Of Your Health Anytime Anywhere !</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main4">Main4Activity</string>
+</resources>
